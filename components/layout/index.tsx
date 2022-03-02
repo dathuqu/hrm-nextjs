@@ -3,7 +3,7 @@ import Image from 'next/image'
 import React, { ReactNode } from 'react'
 import Link from 'next/link'
 
-import styles from '../../styles/Home.module.css'
+import styles from '../../styles/home.module.css'
 
 type Props = {
   children?: ReactNode
